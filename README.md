@@ -60,7 +60,7 @@ Participants are encouraged to engage actively during the learning module. They 
 
 ||Day 1|Day 2|Day 3|Day 4|Day 5|
 |---|---|---|---|---|---|
-|Week 1|Live Learning Session 1 (Shell)|Live Learning Session 2 (Shell)|Live Learning Session 3 ([Git & Github](https://github.com/UofT-DSI/git))|Work Period 1|Work Period 2|
+|Week 1|Live Learning Session 1 (Shell)|Live Learning Session 2 (Shell)|Live Learning Session 3 ([Git & GitHub](https://github.com/UofT-DSI/git))|Work Period 1|Work Period 2|
  
 ## Requirements
 
@@ -85,7 +85,7 @@ Feel free to use the following as resources:
 - [Bash in 100 seconds](https://www.youtube.com/watch?v=I4EWvMFj37g)
 
 ### How to get help
-![image](/steps_to_ask_for_help.png)
+![image](./steps_to_ask_for_help.png)
 
 <hr>
 
@@ -96,7 +96,7 @@ Below is an outline of the folder structure for this module:
 ├── 01_slides
 ├── 02_assignments
 ├── 03_homework
-├── 04_instructors
+├── 04_instructional_team
 ├── LICENSE
 ├── README.md
 └── steps_to_ask_for_help.png
@@ -105,6 +105,6 @@ Below is an outline of the folder structure for this module:
 * **slides:** Module slides as PDF files.
 * **homework:** Homework to practice concepts covered in learning modules.
 * **assignments:** Assignments.
-* **instructors:** This folder provides guidance for Technical Facilitators and the Learning Support team on teaching methodologies and content delivery.
+* **instructors:** This folder guides Technical Facilitators and the Learning Support team on teaching methodologies and content delivery.
 * README: This file!
 * .gitignore: Files to exclude from this repo, specified by the instructing team.
